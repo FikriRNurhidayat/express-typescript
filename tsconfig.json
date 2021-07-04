@@ -5,6 +5,7 @@
     "outDir": "./build",
     "strict": true,
     "esModuleInterop": true,
+    "rootDir": "./src",
     "typeRoots": ["./src/types"],
     "types": [
       "@types/jest",
