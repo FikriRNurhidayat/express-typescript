@@ -15,6 +15,7 @@
     "forceConsistentCasingInFileNames": true
   },
   "exclude": [
-    "tests"
+    "tests",
+    "jest.config.ts"
   ]
 }
